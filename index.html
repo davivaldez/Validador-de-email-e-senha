@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./css/style.css">
+  <title>Validador de email e senha</title>
+</head>
+<body>
+  <header>
+    <h1>Validador de email e senha</h1>
+  </header>
+
+  <main>
+    <form id="forms">
+      <h2>Validador</h2>
+      <div class="input-forms">
+        <label for="name-input">Nome:</label>
+        <input type="text" name="name-input" id="name-input">
+      </div>
+      <span id="name-error"></span>
+      <div class="input-forms">
+        <label for="email-input">E-mail:</label>
+        <input type="text" name="email-input" id="email-input">
+      </div>
+      <span id="email-error"></span>
+      <div class="input-forms">
+        <label for="password-input">Senha:</label>
+        <input type="password" name="password-input" id="password-input">
+      </div>
+      <span id="password-error"></span>
+
+      <div>
+        <button id="btn-validate" type="button">Validar</button>
+        <button id="btn-clean" type="button">Limpar</button>
+      </div>
+    </form>
+  </main>
+
+  <footer>
+      <p>&copy; Todos os direitos reservados. Desenvolvido por <a target="_blank" href="https://github.com/davivaldez">@davivaldez</a></p>
+  </footer>
+
+  <script type="module" src="./js/index.js" defer></script>
+</body>
+</html>
