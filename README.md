@@ -87,7 +87,7 @@ Atualmente, este projeto é mantido por um único contribuidor:
 <table>
   <tr>
     <td align="center">
-      <a target="_blank" href="https://github.com/davivaldez">
+      <a href="https://github.com/davivaldez">
         <img src="https://avatars.githubusercontent.com/u/131072655?v=4" width="100px;" alt="Davi Valdez Profile Picture"/><br>
         <p>
           <b>Davi Valdez</b>
