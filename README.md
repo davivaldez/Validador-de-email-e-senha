@@ -64,7 +64,7 @@ Este projeto tem como objetivo validar e-mails e senhas com base em alguns crit�
 
 5. Abra o arquivo `index.html` com o live server.
 
-   5.1 Clique com o botão direito sobre o `index.html` e seleciona a opção "Open with Live Server".
+   5.1 Clique com o botão direito sobre o `index.html` e selecione a opção "Open with Live Server".
 
    ![Imagem VsCode](resources/images/index_html.PNG)
 
