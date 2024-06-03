@@ -89,9 +89,9 @@ Atualmente, este projeto é mantido por um único contribuidor:
     <td align="center">
       <a href="https://github.com/davivaldez">
         <img src="https://avatars.githubusercontent.com/u/131072655?v=4" width="100px;" alt="Davi Valdez Profile Picture"/><br>
-        <sub>
+        <p>
           <b>Davi Valdez</b>
-        </sub>
+        </p>
       </a>
     </td>
   </tr>
